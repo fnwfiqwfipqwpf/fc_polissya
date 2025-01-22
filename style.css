@@ -1,13 +1,16 @@
-body
-{
-background: #00ab0e url("img/textur-gas-kvas-com-fr6y-p-tekstura-travi-sverkhu-22.jpg")  50% 0;
-font-family: Verdana, Tahoma;
-font-size: 20px;
-color: #000}
-h1{color:yellow;
-text-align:center;}
-p{
-background: rgba(133,243,142,0.5);
-padding: 20px;
+body {
+  background: #00ab0e url("img/textur-gas-kvas-com-fr6y-p-tekstura-travi-sverkhu-22.jpg") 50% 0;
+  font-family: Verdana, Tahoma;
+  font-size: 20px;
+  color: #000;
 }
 
+h1 {
+  color: yellow;
+  text-align: center;
+}
+
+p {
+  background: rgba(133, 243, 142, 0.5);
+  padding: 20px;
+}
