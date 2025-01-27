@@ -1,8 +1,13 @@
 body {
-  background: #00ab0e url("img/textur-gas-kvas-com-fr6y-p-tekstura-travi-sverkhu-22.jpg") 50% 0;
+  background: #326717 url("img/bg.jpg") 50% 0;
   font-family: Verdana, Tahoma;
   font-size: 20px;
   color: #000;
+}
+#highlights {
+  background: rgba(0,200,0,0.1);
+  padding: 20px;
+  margin: 20px 0;
 }
 
 h1 {
@@ -13,4 +18,9 @@ h1 {
 p {
   background: rgba(133, 243, 142, 0.5);
   padding: 20px;
+  
+}
+footer {
+  background-color: #000000;
+  color: #fff;
 }
